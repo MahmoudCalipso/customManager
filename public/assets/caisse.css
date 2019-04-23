@@ -1,0 +1,121 @@
+.inline {
+  display : inline-block !important;
+}
+
+.body-content {
+  padding-left : 10px;
+}
+.content_filters .form-group {
+  width : 150px;
+  display : inline-block;
+  margin-right : 10px;
+}
+
+.caisse_data .caisse_items {
+  padding : 0;
+}
+.caisse_data .caisse_items .item {
+  width : 340px;
+  margin-left : 10px;
+  display : inline-block;
+}
+
+.caisse_data .caisse_items .item button {
+  margin-top : 15px;
+}
+
+.caisse_data .caisse_items .item h1 {
+  font-size : 20px;
+  padding-bottom : 10px !important;
+}
+
+.caisse_data .caisse_items .item h2 {
+  font-size : 16px;
+  font-weight : 300;
+  margin : 0;
+  margin-top : 10px;
+}
+
+.caisse_data .caisse_items .item img {
+  width : 130px;
+  height : 130px;
+  margin-left : 25px;
+  margin-top : -95px;
+  border-radius : 3px;
+}
+
+.caisse_data .caisse_invoice {
+  margin-left : 0px;
+}
+
+
+
+.caisse_data .caisse_invoice ul {
+  margin : 0;
+  list-style : none;
+  padding : 0;
+}
+
+.caisse_data .caisse_invoice ul li {
+  border-bottom : 1px solid #eee;
+  padding-bottom : 10px;
+  padding-top : 10px;
+}
+
+.caisse_data .caisse_invoice ul li img {
+  width : 110px;
+  height : 115px;
+  border-radius : 3px;
+}
+
+.count {
+  margin-top : 7px;
+  width : 60px;
+}
+
+.caisse_data .caisse_invoice ul li h1 {
+  font-size : 19px;
+  font-weight : 300;
+  margin : 0;
+  padding : 0;
+}
+
+.caisse_data .caisse_invoice ul li h2 {
+  font-size : 15px;
+  font-weight : 300;
+  margin : 0;
+  padding : 0;
+  margin-top : 10px;
+}
+
+.caisse_data .caisse_invoice .invoice_info h1 {
+  font-size : 16px;
+}
+
+.goodalign {
+  vertical-align : top;
+}
+
+.leftalign {
+  margin-left : 10px;
+}
+
+
+.bottomalign {
+  display : inline-block;
+  vertical-align : middle;
+  margin-top : 5px;
+  margin-left : 5px;
+}
+
+
+.separator {
+  width : 100%;
+  border : 1px solid #eee;
+  margin-top : 10px;
+  margin-bottom : 15px;
+}
+
+.hidden {
+  display : none;
+}
